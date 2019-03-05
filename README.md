@@ -1,7 +1,7 @@
 # Cartas Modeladas
 
 ## Monstruos Normales
-La cantidad de monstruos normales modelados es arbitraria: dos de cada estrella. Es muy simple agregar tantos monstruos sin efecto como se quiera.
+La cantidad de monstruos normales modelados es arbitraria: dos de cada estrella. Es muy simple agregar tantos monstruos sin efectos como se quiera.
 
 * Aitsu
 * Amphibian Beast
