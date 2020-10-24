@@ -17,7 +17,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) {
     	new ControladorPartidaAlGoOh("Jugador 1", "Jugador 2", primaryStage).iniciar();
     	primaryStage.getIcons().add(new Image(Constantes.RUTA_DE_LAS_IMAGENES + "mazo.jpg"));
-    	primaryStage.setTitle("Yu-Gi-Oh! Demo");
+    	primaryStage.setTitle("Mini Yu-Gi-Oh");
     	primaryStage.show();
    
     }
