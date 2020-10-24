@@ -1,3 +1,6 @@
+## Pre visualización
+![alt text](media/mini_yu_gi_oh.gif)
+
 # Cartas Modeladas
 
 ## Monstruos Normales
@@ -43,6 +46,3 @@ La cantidad de monstruos normales modelados es arbitraria: dos de cada estrella.
 ## Campo
 * Sogen
 * Wasteland
-
-## Preview
-![alt text](media/mini_yu_gi_oh.gif)
