@@ -1,4 +1,4 @@
-# Pre visualización
+# Previsualización
 ![alt text](media/mini_yu_gi_oh.gif)
 
 # Cartas Modeladas
