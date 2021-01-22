@@ -46,3 +46,11 @@ La cantidad de monstruos normales modelados es arbitraria: dos de cada estrella.
 ## Campo
 * Sogen
 * Wasteland
+
+## Hecho con
+fsicardir   
+milenamarchese   
+luciaPardo  
+ 
+
+   
